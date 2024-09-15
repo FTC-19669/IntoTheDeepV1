@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffabeb9-d3c6-4a65-8c9a-9d781c8d57d3" name="Changes" comment="Added .gitignore">
-      <change afterPath="$PROJECT_DIR$/MeepMeep/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MeepMeep/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MeepMeep/src/main/java/com/example/meepmeep/MeepMeepVisualizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="dffabeb9-d3c6-4a65-8c9a-9d781c8d57d3" name="Changes" comment="Added MeepMeep Visualizer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/TeamCode/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.common.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.common.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726424374629</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added MeepMeep Visualizer">
+      <option name="closed" value="true" />
+      <created>1726426005845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726426005845</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +228,7 @@
     <MESSAGE value="Started project (installed RR quickstart)" />
     <MESSAGE value="Updated roadrunner progress 9/14" />
     <MESSAGE value="Added .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added .gitignore" />
+    <MESSAGE value="Added MeepMeep Visualizer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added MeepMeep Visualizer" />
   </component>
 </project>
