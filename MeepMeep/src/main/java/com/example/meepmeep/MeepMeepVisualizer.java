@@ -23,12 +23,12 @@ public class MeepMeepVisualizer {
                 .turn(Math.toRadians(90))
                 .lineToY(0)
                 .turn(Math.toRadians(90))
-                .build());
+                        .build());
 
-        meepMeep.setBackground(MeepMeep.Background.FIELD_INTO_THE_DEEP_JUICE_DARK)
-                .setDarkMode(true)
-                .setBackgroundAlpha(0.95f)
-                .addEntity(myBot)
-                .start();
-    }
-}
+                meepMeep.setBackground(MeepMeep.Background.FIELD_INTO_THE_DEEP_JUICE_DARK)
+                        .setDarkMode(true)
+                        .setBackgroundAlpha(0.95f)
+                        .addEntity(myBot)
+                        .start();
+            }
+        }
