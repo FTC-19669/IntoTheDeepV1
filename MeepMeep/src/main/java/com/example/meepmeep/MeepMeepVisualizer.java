@@ -37,10 +37,10 @@ public class MeepMeepVisualizer {
             .splineToSplineHeading(new Pose2d(-50, -63.5, Math.toRadians(0)), Math.toRadians(190))
             .build());
 
-                meepMeep.setBackground(MeepMeep.Background.FIELD_INTO_THE_DEEP_JUICE_DARK)
-                    .setDarkMode(true)
-                    .setBackgroundAlpha(0.95f)
-                    .addEntity(myBot)
-                    .start();
-            }
+            meepMeep.setBackground(MeepMeep.Background.FIELD_INTO_THE_DEEP_JUICE_DARK)
+                .setDarkMode(true)
+                .setBackgroundAlpha(0.95f)
+                .addEntity(myBot)
+                .start();
         }
+    }
