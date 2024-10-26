@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.common.rr;
+package org.firstinspires.ftc.teamcode.rr;
 
 import com.acmerobotics.dashboard.FtcDashboard;
 import com.acmerobotics.dashboard.telemetry.MultipleTelemetry;
@@ -8,7 +8,7 @@ import com.acmerobotics.roadrunner.PoseVelocity2d;
 import com.acmerobotics.roadrunner.Vector2d;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 
-import org.firstinspires.ftc.teamcode.common.drive.MecanumDrive;
+import org.firstinspires.ftc.teamcode.hardware.MecanumDrive;
 
 public class LocalizationTest extends LinearOpMode {
     @Override

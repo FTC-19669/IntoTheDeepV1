@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.common.rr;
+package org.firstinspires.ftc.teamcode.rr;
 
 import com.acmerobotics.dashboard.FtcDashboard;
 import com.acmerobotics.dashboard.config.reflection.ReflectionConfig;
@@ -22,7 +22,7 @@ import com.qualcomm.robotcore.eventloop.opmode.OpModeManager;
 import com.qualcomm.robotcore.eventloop.opmode.OpModeRegistrar;
 
 import org.firstinspires.ftc.robotcore.internal.opmode.OpModeMeta;
-import org.firstinspires.ftc.teamcode.common.drive.MecanumDrive;
+import org.firstinspires.ftc.teamcode.hardware.MecanumDrive;
 
 import java.util.ArrayList;
 import java.util.Arrays;
